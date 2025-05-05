@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "namaBarang": "Buku Tulis",
+    "jumlahBarang": 100,
+    "terjual": 30,
+    "sisa": 70,
+    "updateAt": "2024-05-05T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "namaBarang": "Pensil",
+    "jumlahBarang": 200,
+    "terjual": 50,
+    "sisa": 150,
+    "updateAt": "2024-05-05T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "namaBarang": "Penghapus",
+    "jumlahBarang": 200,
+    "terjual": 30,
+    "sisa": 170,
+    "updateAt": "2024-05-05T10:00:00Z"
+  },
+  {
+    "id": 5,
+    "namaBarang": "Pulpen",
+    "jumlahBarang": 100,
+    "terjual": 30,
+    "sisa": 70,
+    "updateAt": "2025-05-05T05:43:12.358Z"
+  }
+]
